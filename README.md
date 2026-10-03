@@ -46,6 +46,6 @@ Git, GitHub, IntelliJ IDEA, VS Code
 
 ## 🤝 Connect With Me
 
-- LinkedIn
-- Portfolio
-- GitHub
+- LinkedIn - https://www.linkedin.com/in/vikas-suvarna-20757a328/
+- Portfolio - https://vikassuvarna.vercel.app/
+- GitHub - https://github.com/VikasSuvarna-Code
