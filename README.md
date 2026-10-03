@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Vikas Suvarna 👋
 
-<!--
-**VikasSuvarna-Code/VikasSuvarna-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+🏫 Alva's Institute of Engineering and Technology  
+📅 B.E. CSE | Expected Graduation: 2028
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science Engineering student interested in software development and backend engineering.
+
+Currently focusing on:
+- Java
+- Spring Boot
+- Data Structures & Algorithms
+- REST APIs
+- MySQL & PostgreSQL
+- Python
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Java, Python, JavaScript, PHP
+
+**Backend:**  
+Spring Boot, REST APIs
+
+**Databases:**  
+MySQL, PostgreSQL
+
+**Tools:**  
+Git, GitHub, IntelliJ IDEA, VS Code
+
+## 🚀 Projects
+
+- Employee Management System
+- College Bus Tracking & Attendance System
+- Travel Mate AI
+- Personal Portfolio
+
+## 📚 Currently Learning
+
+- Advanced Java
+- Spring Boot
+- Backend Development
+- Data Structures & Algorithms
+
+## 🤝 Connect With Me
+
+- LinkedIn
+- Portfolio
+- GitHub
