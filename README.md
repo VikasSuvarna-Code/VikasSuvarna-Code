@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 Currently working on: Full-stack and AI-powered projects<br><br><br><br>👯 Looking to collaborate on: Open-source and innovative projects<br><br><br><br>🤝 Looking for help with: System design and advanced backend development<br><br><br><br>🌱 Currently learning: Spring Boot, DSA, and AI engineering<br><br><br><br>💬 Ask me about: Java, Spring Boot, MySQL, and web development<br><br><br><br>⚡ Fun fact: I love turning ideas into working projects!
+Hey! 👋 I'm **Vikas Suvarna**, a third-year Computer Science and Engineering student passionate about software development, backend engineering, and emerging technologies.
+
+I enjoy building real-world projects, exploring new technologies, and continuously improving my problem-solving skills. I'm currently focusing on Java, Spring Boot, full-stack development, and AI-powered applications.
+
+Always curious, always learning, and excited to build something impactful! 🚀
 
 
 ## 🌐 Socials:
